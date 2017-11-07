@@ -4,22 +4,70 @@
 h1 {
     font-size: 30px;
 }
+h3, h5 {
+    letter-spacing: 1px;
+}
+
+a:hover {
+    text-decoration: none;
+}
 p {
     font-size: 15px;
     text-align: justify;
 }
+.title-box {
+    border-bottom: 0;
+}
+.title-box:before {
+    display: none;
+}
+.image_overlay {
+    margin-bottom: 0;
+}
 
+.phone-header a svg path,
+.search-header a svg path,
+.product .actions a svg path,
+.sidebar .wishlist .add-cart:hover path,
+.header .cart-header .dropdown-toggle .icon svg path,
+.search-active .search-submit svg path,
+.new-checkbox svg polygon,
+.product-bottom .related-products li .button-box .wishlist:hover svg path,
+.jslider .jslider-pointer svg path,
+.rating-box .rating svg polygon,
+.search-result .search-form .search-submit svg path {
+    fill: white;
+}
+#top-box{
+    background-color: black;
+}
 .page-box-content {
     background-image: url('/sites/all/themes/progressive/progressive_sub/img/trama.png');
     background-color: #ffffff;
     background-size: 1000px;
 }
-.TitoloHeader{
+.fixed-header.background-opacity .header-wrapper {
+    background: #847552;
+}
+.fixed-header .header-wrapper,
+.TitoloHeader,
+#sidebar .view .item-list ul li:hover,
+.sidebar .tags a{
     background-color: #847552;
 }
+h5 a,
+h5 a:visited,
+.body-margin-bottom a,
 .node-type-eventi h1,
-.wrapping-events-icons .field-label-above b{
+.wrapping-events-icons .field-label-above b,
+#sidebar .title-box h3,
+#sidebar .view .item-list ul li a:before,
+.labelWW,
+.readRistoDue a{
     color: #847552;
+}
+.node-type-eventi h1 {
+    font-weight: bold;
 }
 
 .node-type-eventi #content {
@@ -27,9 +75,106 @@ p {
     margin-top: 30px;
     background-color: white;
 }
+.node-type-contenitorepagina #content{
+    margin-top: 30px;
+    background-color: white;
+}
+.nd-region {
+    padding: 0;
+}
+#block-views-listaeventi-block,
+#block-views-listaeventi-block-1 {
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.node-type-eventi .field-name-field-immagini {
+    margin: 30px 0;
+}
 .view-EventsTop .content-block,
 .HeaderHome{
     border-bottom: 5px solid #847552;
+}
+/* MENU */
+.navbar {
+    font-size: 14px;
+}
+.header .primary .navbar .nav > li > a,
+.header .primary .navbar .nav > li > a:visited  {
+    color: white;
+}
+/* SIDEBAR */
+#sidebar .title-box {
+    margin-bottom: 0;
+}
+#sidebar .title-box .title{
+    font-size: 20px;
+    padding-top: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#sidebar {
+    background-color: white;
+    padding: 55px 30px 30px 30px;
+    margin-left: 50px;
+}
+
+#sidebar .view .item-list ul li:last-child {
+    border-bottom: 0px;
+}
+
+#sidebar .view .item-list ul li {
+
+    overflow: hidden;
+    line-height: 20px;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+    margin: 0px;
+    padding: 0px;
+}
+#sidebar .view .item-list ul li a {
+    display: block;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 0 10px;
+    position: relative;
+    float: left;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -o-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+    color: #000000;
+    outline: none;
+}
+#sidebar .view .item-list ul li a:hover {
+    color: #fff!important;
+    padding-left: 35px;
+}
+#sidebar .view .item-list ul li a:before {
+    content: "\f111";
+    font-family: FontAwesome;
+    position: absolute;
+    font-size: 5px;
+    top: 2px;
+    left: 0px;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+.views-summary li {
+    color: #9d9d9d;
+    font-style: italic;
+}
+.sidebar .widget {
+    margin: 0 0 30px;
+}
+
+.sidebar .tags li {
+    float: left;
+    margin: 0 3px 3px 0;
 }
 /* Home */
 .HeaderHome {
@@ -122,6 +267,7 @@ p {
 }
 .view-EventsTop .content-block {
     padding: 0;
+    margin-bottom: -33px;
 }
 .content-block > p,
 .demo+p{
@@ -134,18 +280,19 @@ p {
     z-index: 100;
 }
 .TitoloHeader {
-    position: absolute;
+    position: relative;
     padding: 15px 50px 10px 50px;
-    left: 0;
-    right: 0;
-    margin-left: auto;
-    width: 200px;
-    margin-right: auto;
-    bottom: -22px;
+    margin: 0 auto;
+    display: inline;
     color: white;
+    bottom: 7px;
 }
-.content-block .video-box {
+.content-block .video-box,
+.caption img{
     margin-bottom: 0;
+}
+.content-block .caption {
+    margin-bottom: -6px;
 }
 .player .controls {
     display: none!important;
@@ -187,4 +334,100 @@ p {
     margin-top: 10px;
     font-weight: bold;
     line-height: 20px;
+}
+.blink_me {
+    animation: blinker 2s linear infinite;
+}
+#progressive_cms-menu {
+    margin-bottom: -1px;
+}
+
+/* LISTA EVENTI */
+#block-views-listaeventi-block .title-box,
+#block-views-listaeventi-block-1 .title-box{
+    display: none;
+}
+.view-eventlist .views-row {
+    margin-bottom: 40px;
+}
+.view-listaeventi .views-row .col-md-3.views-fieldset {
+    text-align: center;
+}
+
+
+.categoriaEvento {
+    background-color: #847552;
+    height: 26px;
+    color: white;;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-top: 3px;
+}
+.categoriaEvento a {
+    color: white;
+    pointer-events: none;
+    cursor: default;
+}
+.view-listaeventi h5 a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.view-listaeventi h5 {
+    margin: 0;
+}
+.body-margin-bottom {
+    margin-bottom: 7px;
+    line-height: 20px;
+}
+.view-listaeventi p {
+    margin-bottom: 0px;
+    text-align: justify;
+}
+.more-link {
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-left: 5px;
+}
+.colonna-event-list {
+    padding-left: 0px;
+}
+
+.colonna-event-list img {
+    margin-right: 10px;
+}
+
+.iconaListEvents {
+    width: 24px;
+    margin-top: 2px;
+    float: left;
+}
+.iconaListEventsWhen {
+    width: 35px;
+    margin-top: 2px;
+    float: left;
+}
+.labelWW {
+    margin-bottom: -5px;
+}
+
+/* SEDI */
+.BloccoBody {
+    padding: 50px;
+    background-color: white;
+    margin-top: 30px;
+    height: 320px;
+}
+
+.readRistoDue {
+    position: absolute;
+    bottom: 75px;
+    width: 40%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bordoOro {
+    border: 1px solid #847552;
+    padding: 10px 20px;
 }

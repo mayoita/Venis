@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b28740dd-463a-447b-9e97-2526eee5f5d9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/blog_84x84/public/upload_image_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/blog_84x84/public/upload_image_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/blog_84x84/public/upload_image_56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/gallery_item_270x135/public/upload_image_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/gallery_item_270x135/public/upload_image_103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/gallery_item_270x135/public/upload_image_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/gallery_item_270x135/public/upload_image_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_132.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_134.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_135.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_136.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_137.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_138.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_142.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_143.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_136.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_270x270/public/upload_image_51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_136.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/product_70x70/public/upload_image_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_136.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project_253x158/public/upload_image_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project__270x197_/public/upload_image_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project__270x197_/public/upload_image_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project__270x197_/public/upload_image_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project__270x197_/public/upload_image_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project__270x197_/public/upload_image_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project__270x197_/public/upload_image_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/project__270x197_/public/upload_image_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/team_60x60/public/upload_image_48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/team_60x60/public/upload_image_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/team_60x60/public/upload_image_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/team_60x60/public/upload_image_51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/backup_migrate-7.x-3.3.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/backup_migrate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/backup_migrate.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/backup_migrate.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/backup_migrate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/backup_migrate.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/backup_migrate.drush.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/crud.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.browser.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.db.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.db.mysql.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.email.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.file.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.ftp.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.nodesquirrel.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/destinations.s3.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/files.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/filters.backup_restore.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/filters.compression.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/filters.encryption.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/filters.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/filters.statusnotify.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/filters.utils.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/locations.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/profiles.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/schedules.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/sources.archivesource.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/sources.db.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/sources.db.mysql.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/sources.filesource.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/backup_migrate/includes/sources.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_104.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_105.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_132.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_134.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_135.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_136.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_137.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_138.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_142.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_143.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="406" column="16" lean-forward="true" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>listaeventi</find>
+      <find>image</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="698" />
+    <option name="y" value="40" />
+    <option name="width" value="1015" />
+    <option name="height" value="978" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive_sub" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive_sub" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b28740dd-463a-447b-9e97-2526eee5f5d9" name="Default" comment="" />
+      <created>1509972232863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509972232863</updated>
+      <workItem from="1509972234253" duration="4324000" />
+      <workItem from="1510047714067" duration="6794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11118000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="698" y="40" width="1015" height="978" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2548818" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/templates/progressive-cms-menu.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="406" column="16" lean-forward="true" selection-start-line="406" selection-start-column="16" selection-end-line="406" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
