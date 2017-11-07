@@ -52,7 +52,8 @@ p {
 .fixed-header .header-wrapper,
 .TitoloHeader,
 #sidebar .view .item-list ul li:hover,
-.sidebar .tags a{
+.sidebar .tags a,
+.image_overlay .description{
     background-color: #847552;
 }
 h5 a,
@@ -65,6 +66,16 @@ h5 a:visited,
 .labelWW,
 .readRistoDue a{
     color: #847552;
+}
+.image_overlay img {
+    border-bottom: 5px solid #847552;
+}
+.container.rigaInterna {
+    border-top: 5px solid #847552;
+    border-bottom: 5px solid #847552;
+    padding: 50px;
+    background-color: white;
+    margin-top: 30px;
 }
 .node-type-eventi h1 {
     font-weight: bold;
@@ -430,4 +441,13 @@ h5 a:visited,
 .bordoOro {
     border: 1px solid #847552;
     padding: 10px 20px;
+}
+
+/* SEDI */
+.image_overlay .description {
+    text-align: center;
+    font-size: 23px!important;
+    line-height: 22px;
+    padding: 15px 40px 10px 40px!important;
+    margin: 0 70px;
 }
