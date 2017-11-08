@@ -1,13 +1,23 @@
 @charset "UTF-8";
 /* Insert your custom CSS styles */
 
-h1 {
+h1,
+.title-box h1.title{
     font-size: 30px;
+}
+.title-box h1.title{
+    font-weight: bold;
+    text-align: center;
+}
+#block-views-orari-di-apertura-block .title-box h1.title{
+    text-align: left;
 }
 h3, h5 {
     letter-spacing: 1px;
 }
-
+.view-footer a {
+    text-decoration: none;
+}
 a:hover {
     text-decoration: none;
 }
@@ -56,6 +66,14 @@ p {
 .image_overlay .description{
     background-color: #847552;
 }
+.panel-group .panel .panel-heading > .panel-title > a,
+.panel-group .active.panel > .panel-heading > .panel-title > a,
+.panel-group .active.panel > .panel-heading > .panel-title > a:hover,
+.view-footer a,
+.title-box h1.title,
+h5,
+.BloccoBodyDue .title-box .title,
+h6,
 h5 a,
 h5 a:visited,
 .body-margin-bottom a,
@@ -64,6 +82,8 @@ h5 a:visited,
 #sidebar .title-box h3,
 #sidebar .view .item-list ul li a:before,
 .labelWW,
+.altezzaBloccoSedi a,
+.altezzaBloccoSedi a:visited,
 .readRistoDue a{
     color: #847552;
 }
@@ -76,12 +96,14 @@ h5 a:visited,
     padding: 50px;
     background-color: white;
     margin-top: 30px;
+    height: 1115px;
 }
 .node-type-eventi h1 {
     font-weight: bold;
 }
 
-.node-type-eventi #content {
+.node-type-eventi #content,
+.node-type-game #content{
     padding: 50px;
     margin-top: 30px;
     background-color: white;
@@ -269,6 +291,7 @@ h5 a:visited,
     display: none!important;
 }
 /* CONTENUTO HEADER */
+#block-views-fourblock-block .title-box,
 .view-EventsTop {
     text-align: center;
 }
@@ -429,9 +452,15 @@ h5 a:visited,
     height: 320px;
 }
 
+.BloccoBodyDue {
+    padding: 50px;
+    background-color: white;
+    margin-top: 30px;
+}
+
 .readRistoDue {
     position: absolute;
-    bottom: 75px;
+    bottom: 40px;
     width: 40%;
     left: 0;
     right: 0;
@@ -450,4 +479,133 @@ h5 a:visited,
     line-height: 22px;
     padding: 15px 40px 10px 40px!important;
     margin: 0 70px;
+}
+.altezzaBloccoSedi .title-box {
+    display: none;
+
+}
+.altezzaBloccoSedi {
+    margin-top: 30px;
+}
+.rigaInterna h5 {
+    font-weight: bold;
+}
+
+.altezzaBloccoSedi h5,
+.title-h5{
+    margin-bottom: 9px;
+}
+h6,
+.altezzaBloccoSedi p{
+    margin:0;
+}
+p.iconaBloccoSedi {
+    margin-bottom: 10px;
+}
+#block-views-orari-di-apertura-block:before,
+#block-views-orarisedi-block:before,
+#block-views-orarisedi-block-1:before{
+    content: url(/sites/default/files/time.svg);
+    display: block;
+    width: 30px;
+    height: 30px;
+}
+
+.BloccoBodyDue .title-box .title  {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.view-orarisedi .views-row-1 {
+    margin-bottom: 20px;
+}
+.view-footer {
+    padding: 10px;
+    border: 2px solid #847552;
+    text-align: center;
+    width: 45%;
+    margin: 60px auto 20px auto;
+}
+.view-footer p {
+    text-align: center;
+}
+/* GIOCHI */
+#block-views-dovegiocare-block:before {
+    content: url(/sites/default/files/dove.svg);
+    display: block;
+    width: 25px;
+    height: 36px;
+}
+#block-views-probabilita-di-vincita-block:before,
+#block-views-dovegiocare-block:before,
+#block-views-orari-di-apertura-block:before{
+    margin-bottom: 10px;
+}
+
+.rigaBloccoInfo {
+
+    line-height: 18px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.rigaBloccoInfo p {
+    text-align: left;
+}
+.panel-group .panel .panel-heading > .panel-title > a:before,
+.panel-group .panel .panel-heading > .panel-title > a:after {
+    content: url(/sites/default/files/apri.svg);
+    display: block;
+    width: 25px;
+    margin: 8px 0 0 15px;
+    height: 0px;
+}
+.panel-group .active.panel > .panel-heading > .panel-title > a:before,
+.panel-group .active.panel > .panel-heading > .panel-title > a:after{
+    content: url(/sites/default/files/chiudi.svg);
+}
+.panel-group > .panel-default > .panel-heading > .panel-title > a,
+.panel-group .active.panel > .panel-heading > .panel-title > a,
+#block-block-42 .block-content{
+    background-color: #ffffff;
+}
+.panel-group > .panel-default > .panel-heading > .panel-title > a,
+.panel-group .active.panel > .panel-heading > .panel-title > a {
+    background-color: white!important;
+}
+#block-views-probabilita-di-vincita-block:before {
+    content: url(/sites/default/files/percent.svg);
+    display: block;
+    width: 25px;
+    height: 25px;
+}
+.rigaBloccoInfo .views-field-field-titolo {
+    font-weight: bold;
+}
+.views-field-field-hold .field-content, .views-field-field-rtp .field-content, .views-field-field-cagnotte .field-content {
+    display: inline;
+}
+
+.rigaBloccoInfo, .views-field-field-hold-text, .views-field-field-rtp-text {
+    margin-bottom: 20px;
+}
+
+#block-views-fourblock-block {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    border-top: 5px solid #847552;
+    border-bottom: 5px solid #847552;
+    background: white;
+}
+#block-views-fourblock-block .title-box {
+    margin-bottom: 0px;
+}
+#block-views-fourblock-block .block-content {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.view-display-id-block {
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
