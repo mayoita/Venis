@@ -609,3 +609,6 @@ p.iconaBloccoSedi {
     padding-top: 30px;
     padding-bottom: 20px;
 }
+.headerInList .content-block {
+   padding: 0;
+}
