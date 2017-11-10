@@ -2,59 +2,231 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b28740dd-463a-447b-9e97-2526eee5f5d9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_handler_area.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_handler_field.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_handler_filter.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_handler_sort.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_plugin_access.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_plugin_cache.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_plugin_pager.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_plugin_query.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/plugins/views/views_php_plugin_wrapper.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/views_php.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/views_php.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/views_php.module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all/modules/views_php/views_php.views.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/languages/it_zEOQi3qhnsy-rEcpZ65dV4CHiqjjuXHgII1CNHRWsxw.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/l10n_update-7.x-1.1.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/views_php-7.x-1.0-alpha3.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/css/l10n_update.admin-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/css/l10n_update.admin.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/images/menu-collapsed-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/images/menu-collapsed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/images/menu-expanded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/js/l10n_update.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.admin.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.batch.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.check.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.drush.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.install" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.locale.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.parser.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/l10n_update/l10n_update.project.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_handler_area.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_handler_field.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_handler_filter.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_handler_sort.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_plugin_access.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_plugin_cache.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_plugin_pager.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_plugin_query.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/plugins/views/views_php_plugin_wrapper.inc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/views_php.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/views_php.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/views_php.module" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/views_php/views_php.views.inc" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock--blocco-sedi.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/languages/it_-3KfPrQ0X9YyiCNWKGflh8VYDCtZgoZwW6n4e_VWwQ8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/languages/zh-hans_0s3rxdbMrplcUSGKZBg7cFDJWyRrpPOKdpGD47chk5g.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/metatag-7.x-1.22.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/opengraph_meta-7.x-2.0-beta1.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/.codeclimate.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/CHANGELOG.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/CODE_OF_CONDUCT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/arrow-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.admin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.admin.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.drush.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.features.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.feeds.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.i18n.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.migrate.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.search_api.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.theme.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.tokens.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.variable.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag.vertical-tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_app_links/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_app_links/metatag_app_links.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_app_links/metatag_app_links.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_app_links/metatag_app_links.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_app_links/tests/metatag_app_links.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_app_links/tests/metatag_app_links.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/metatag_context.admin.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/metatag_context.context.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/metatag_context.i18n.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/metatag_context.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/metatag_context.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/metatag_context.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/metatag_context.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/tests/metatag_context.i18n.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/tests/metatag_context.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/tests/metatag_context_tests.context.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/tests/metatag_context_tests.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_context/tests/metatag_context_tests.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc/metatag_dc.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc/metatag_dc.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc/metatag_dc.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc/metatag_dc.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc/tests/metatag_dc.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc/tests/metatag_dc.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc_advanced/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc_advanced/metatag_dc_advanced.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc_advanced/metatag_dc_advanced.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc_advanced/metatag_dc_advanced.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc_advanced/tests/metatag_dc_advanced.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_dc_advanced/tests/metatag_dc_advanced.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_devel/metatag_devel.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_devel/metatag_devel.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_devel/tests/metatag_devel.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_facebook/metatag_facebook.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_facebook/metatag_facebook.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_facebook/metatag_facebook.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_facebook/metatag_facebook.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_facebook/tests/metatag_facebook.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_facebook/tests/metatag_facebook.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/metatag_favicons.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/metatag_favicons.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/metatag_favicons.mask-icon.class.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/metatag_favicons.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/metatag_favicons.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/tests/druplicon-vector.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/tests/metatag_favicons.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_favicons/tests/metatag_favicons.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_cse/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_cse/metatag_google_cse.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_cse/metatag_google_cse.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_cse/metatag_google_cse.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_cse/metatag_google_cse.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_cse/tests/metatag_google_cse.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_cse/tests/metatag_google_cse.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/metatag_google_plus.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/metatag_google_plus.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/metatag_google_plus.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/metatag_google_plus.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/metatag_google_plus.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/tests/metatag_google_plus.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_google_plus/tests/metatag_google_plus.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/metatag_hreflang.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/metatag_hreflang.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/metatag_hreflang.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/metatag_hreflang.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/metatag_hreflang.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/metatag_hreflang.tokens.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/tests/metatag_hreflang.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/tests/metatag_hreflang.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_hreflang/tests/metatag_hreflang.with_entity_translation.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/metatag_importer.admin.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/metatag_importer.drush.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/metatag_importer.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/metatag_importer.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/metatag_importer.nodewords.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/metatag_importer.page_title.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_importer/tests/metatag_importer.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_mobile/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_mobile/metatag_mobile.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_mobile/metatag_mobile.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_mobile/metatag_mobile.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_mobile/tests/metatag_mobile.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_mobile/tests/metatag_mobile.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph/metatag_opengraph.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph/metatag_opengraph.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph/metatag_opengraph.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph/metatag_opengraph.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph/tests/metatag_opengraph.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph/tests/metatag_opengraph.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph_products/metatag_opengraph_products.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph_products/metatag_opengraph_products.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph_products/metatag_opengraph_products.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph_products/tests/metatag_opengraph_products.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_opengraph_products/tests/metatag_opengraph_products.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/metatag_panels.i18n.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/metatag_panels.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/metatag_panels.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/metatag_panels.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/tests/metatag_panels.i18n.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/tests/metatag_panels.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/tests/metatag_panels_tests.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/tests/metatag_panels_tests.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_panels/tests/metatag_panels_tests.pages_default.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_twitter_cards/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_twitter_cards/metatag_twitter_cards.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_twitter_cards/metatag_twitter_cards.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_twitter_cards/metatag_twitter_cards.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_twitter_cards/metatag_twitter_cards.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_twitter_cards/tests/metatag_twitter_cards.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_twitter_cards/tests/metatag_twitter_cards.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_verification/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_verification/metatag_verification.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_verification/metatag_verification.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_verification/metatag_verification.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_verification/metatag_verification.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_verification/tests/metatag_verification.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_verification/tests/metatag_verification.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.i18n.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.tokens.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views.views.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/metatag_views_plugin_display_extender_metatags.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/tests/metatag_views.i18n.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/tests/metatag_views.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/tests/metatag_views_tests.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/tests/metatag_views_tests.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/metatag_views/tests/metatag_views_tests.views_default.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/plugins/content_types/node_form_metatags.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.bulk_revert.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.core_tag_removal.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.helper.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.image.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.locale.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.node.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.node.with_i18n.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.output_caching.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.string_handling.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.string_handling_with_i18n.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.tags.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.tags_helper.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.term.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.term.with_i18n.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.unit.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.user.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_i18n_config.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_i18n_disabled.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_i18n_output.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_me.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_media.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_panels.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_profile2.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_search_api.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_views.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.with_workbench_moderation.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag.xss.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag_search_test.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag_search_test.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag_test.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag_test.metatag.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/metatag/tests/metatag_test.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/opengraph_meta.common.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/opengraph_meta.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/opengraph_meta.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/opengraph_meta.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/opengraph_meta_upload/opengraph_meta_upload.features.field_base.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/opengraph_meta_upload/opengraph_meta_upload.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/opengraph_meta_upload/opengraph_meta_upload.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/tests/Basic.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/opengraph_meta/tests/TestBase.inc" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/cvc.js" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/cvc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default/files/fontyourface/font.css" afterPath="$PROJECT_DIR$/default/files/fontyourface/font.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,8 +241,82 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="604" column="24" lean-forward="true" selection-start-line="604" selection-start-column="24" selection-end-line="604" selection-end-column="24" />
+            <state relative-caret-position="407">
+              <caret line="720" column="15" lean-forward="true" selection-start-line="720" selection-start-column="15" selection-end-line="720" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views-view-grid--fourblock--blocco-sedi.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock--blocco-sedi.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views-view-grid--block.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--block.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progressive_shortcodes.module" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/modules/progressive_cms/progressive_shortcodes/progressive_shortcodes.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="298" column="63" lean-forward="false" selection-start-line="298" selection-start-column="24" selection-end-line="298" selection-end-column="63" />
+              <folding>
+                <marker date="1509957212600" expanded="true" signature="31209:32046" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31243:31621" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31452:31608" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31655:32033" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31864:32020" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="54071:55176" ph="..." />
+                <marker date="1509957212600" expanded="false" signature="54091:54129" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="54145:55165" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="54351:55152" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85294:85632" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85351:85632" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85429:85502" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85549:85632" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cvc.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/cvc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slick.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slick-theme.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick-theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3060">
+              <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,17 +329,33 @@
       <find>listaeventi</find>
       <find>image</find>
       <find>bol</find>
-      <find>title-box</find>
       <find>BloccoBody</find>
       <find>altez</find>
-      <find>display: n</find>
       <find>dove.s</find>
       <find>time</find>
       <find>#block-views-orarisedi-block:before</find>
       <find>phone</find>
       <find>tagTele</find>
       <find>cent</find>
+      <find>view</find>
+      <find>progressive_shortcodes_shortcode_sitemap_tip</find>
+      <find>sitemap</find>
+      <find>progressive_shortcodes_shortcode_title_tip</find>
+      <find>progressive_shortcodes_shortcode_hr_tip</find>
+      <find>9px</find>
+      <find>display: n</find>
+      <find>conteni</find>
+      <find>fourblock-block</find>
+      <find>#block-views-fourblock-block</find>
+      <find>contenito</find>
+      <find>title</find>
+      <find>title-box</find>
+      <find>display: non</find>
+      <find>227</find>
     </findStrings>
+    <replaceStrings>
+      <replace>#block-views-fourblock-blocco-sedi</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -101,6 +363,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info" />
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick-theme.css" />
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/cvc.js" />
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--block.tpl.php" />
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock--blocco-sedi.tpl.php" />
         <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" />
       </list>
     </option>
@@ -113,9 +380,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="698" />
-    <option name="y" value="40" />
-    <option name="width" value="1015" />
+    <option name="x" value="631" />
+    <option name="y" value="59" />
+    <option name="width" value="1061" />
     <option name="height" value="978" />
   </component>
   <component name="ProjectView">
@@ -133,8 +400,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -205,7 +472,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="progressive_sub" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,6 +499,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="progressive_sub" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,6 +549,72 @@
               <option name="myItemId" value="all" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive_cms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive_cms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive_shortcodes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -287,6 +624,13 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates" />
+      <recent name="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css" />
+      <recent name="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -300,6 +644,75 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -311,33 +724,34 @@
       <option name="presentableId" value="Default" />
       <updated>1509972232863</updated>
       <workItem from="1509972234253" duration="4324000" />
-      <workItem from="1510047714067" duration="15333000" />
+      <workItem from="1510047714067" duration="21115000" />
+      <workItem from="1510302995845" duration="9339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19657000" />
+    <option name="totallyTimeSpent" value="34778000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="40" width="1015" height="978" extended-state="0" />
+    <frame x="631" y="59" width="1061" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2548818" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24828263" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -360,6 +774,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/cvc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/all/themes/progressive/templates/progressive-cms-menu.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1081">
@@ -368,10 +814,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="204" column="0" lean-forward="false" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/cvc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/modules/progressive_cms/progressive_shortcodes/progressive_shortcodes.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="298" column="63" lean-forward="false" selection-start-line="298" selection-start-column="24" selection-end-line="298" selection-end-column="63" />
+          <folding>
+            <marker date="1509957212600" expanded="true" signature="31209:32046" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="31243:31621" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="31452:31608" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="31655:32033" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="31864:32020" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="54071:55176" ph="..." />
+            <marker date="1509957212600" expanded="false" signature="54091:54129" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="54145:55165" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="54351:55152" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="85294:85632" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="85351:85632" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="85429:85502" ph="..." />
+            <marker date="1509957212600" expanded="true" signature="85549:85632" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--block.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock--blocco-sedi.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="604" column="24" lean-forward="true" selection-start-line="604" selection-start-column="24" selection-end-line="604" selection-end-column="24" />
+        <state relative-caret-position="407">
+          <caret line="720" column="15" lean-forward="true" selection-start-line="720" selection-start-column="15" selection-end-line="720" selection-end-column="15" />
           <folding />
         </state>
       </provider>

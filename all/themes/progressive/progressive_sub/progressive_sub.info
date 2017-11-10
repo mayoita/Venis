@@ -14,7 +14,11 @@ regions[footer]             = Footer
 
 stylesheets[all][] = css/custom.css
 stylesheets[all][] = css/responsive_cvc.css
+stylesheets[all][] = css/slick.css
+stylesheets[all][] = css/slick-theme.css
+
 scripts[] = js/cvc.js
+scripts[] = js/slick.js
 
 features[] = name
 features[] = logo

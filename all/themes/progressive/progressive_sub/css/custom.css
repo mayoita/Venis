@@ -15,8 +15,14 @@ h1,
 h3, h5 {
     letter-spacing: 1px;
 }
+h4 {
+    margin-bottom: 0;
+}
 .view-footer a {
     text-decoration: none;
+}
+.percorsoNodo {
+    padding: 20px;
 }
 a:hover {
     text-decoration: none;
@@ -31,6 +37,7 @@ p {
 .title-box:before {
     display: none;
 }
+
 .image_overlay {
     margin-bottom: 0;
 }
@@ -66,6 +73,8 @@ p {
 .image_overlay .description{
     background-color: #847552;
 }
+.coloreOro,
+#sidebar #block-block-24 .description,
 .panel-group .panel .panel-heading > .panel-title > a,
 .panel-group .active.panel > .panel-heading > .panel-title > a,
 .panel-group .active.panel > .panel-heading > .panel-title > a:hover,
@@ -74,6 +83,7 @@ p {
 h5,
 .BloccoBodyDue .title-box .title,
 h6,
+h4,
 h5 a,
 h5 a:visited,
 .body-margin-bottom a,
@@ -84,7 +94,9 @@ h5 a:visited,
 .labelWW,
 .altezzaBloccoSedi a,
 .altezzaBloccoSedi a:visited,
-.readRistoDue a{
+.readRistoDue a,
+.title-box .title,
+#sidebar a{
     color: #847552;
 }
 .image_overlay img {
@@ -98,19 +110,42 @@ h5 a:visited,
     margin-top: 30px;
     height: 1115px;
 }
+#sidebar .tags a {
+    color: white;
+}
 .node-type-eventi h1 {
     font-weight: bold;
 }
-
+#block-views-fourblock-block-2 .title-h1,
+#block-views-fourblock-block-1 .title-h1,
+#block-views-fourblock-block .title-h1{
+ margin-bottom: 0;
+}
+#block-views-fourblock-block-2,
+#block-views-fourblock-block-1,
+#block-views-fourblock-block,
 .node-type-eventi #content,
-.node-type-game #content{
+.node-type-game #content,
+.contenitoreBianco.container,
+.bloccoBianco{
     padding: 50px;
     margin-top: 30px;
     background-color: white;
 }
+.bloccoBianco .title {
+   padding-top: 0;
+}
+.bloccoBianco .title-box {
+    margin-bottom: 0;
+}
 .node-type-contenitorepagina #content{
     margin-top: 30px;
     background-color: white;
+}
+.page-node-226 #content,
+.page-node-227 #content,
+.page-node-228 #content {
+    background-color: transparent;
 }
 .nd-region {
     padding: 0;
@@ -377,6 +412,9 @@ h5 a:visited,
 }
 
 /* LISTA EVENTI */
+#block-block-25 .title-box,
+#block-block-26 .title-box,
+#block-views-listaeventi-block-5 .title-box,
 #block-views-listaeventi-block .title-box,
 #block-views-listaeventi-block-1 .title-box{
     display: none;
@@ -480,27 +518,35 @@ h5 a:visited,
     padding: 15px 40px 10px 40px!important;
     margin: 0 70px;
 }
-.altezzaBloccoSedi .title-box {
+.altezzaBloccoSedi .title-box,
+#block-block-18 .title-box,
+#block-block-20 .title-box,
+#block-block-21 .title-box,
+#block-block-24 .title-box{
     display: none;
 
 }
 .altezzaBloccoSedi {
     margin-top: 30px;
 }
-.rigaInterna h5 {
+.rigaInterna h5,
+#sidebar h5{
     font-weight: bold;
 }
 
 .altezzaBloccoSedi h5,
-.title-h5{
+.title-h5,
+#sidebar h5,
+#block-views-orarisedi-block:before{
     margin-bottom: 9px;
 }
 h6,
-.altezzaBloccoSedi p{
+.altezzaBloccoSedi p,
+#block-block-18 p{
     margin:0;
 }
 p.iconaBloccoSedi {
-    margin-bottom: 10px;
+    margin-bottom: 10px!important;
 }
 #block-views-orari-di-apertura-block:before,
 #block-views-orarisedi-block:before,
@@ -511,7 +557,8 @@ p.iconaBloccoSedi {
     height: 30px;
 }
 
-.BloccoBodyDue .title-box .title  {
+.BloccoBodyDue .title-box .title,
+#block-views-orarisedi-block .title-box .title{
     font-size: 20px;
     font-weight: bold;
 }
@@ -543,7 +590,6 @@ p.iconaBloccoSedi {
 }
 
 .rigaBloccoInfo {
-
     line-height: 18px;
     font-size: 14px;
     letter-spacing: 1px;
@@ -590,25 +636,108 @@ p.iconaBloccoSedi {
     margin-bottom: 20px;
 }
 
-#block-views-fourblock-block {
+#block-views-fourblock-blocco-sedi {
     padding-top: 40px;
     padding-bottom: 30px;
     border-top: 5px solid #847552;
     border-bottom: 5px solid #847552;
     background: white;
+    margin: 30px 0;
 }
-#block-views-fourblock-block .title-box {
+#block-views-fourblock-blocco-sedi .title-box {
     margin-bottom: 0px;
 }
-#block-views-fourblock-block .block-content {
+#block-views-fourblock-blocco-sedi .block-content {
     padding-left: 30px;
     padding-right: 30px;
 }
-.view-display-id-block {
-    background-color: white;
-    padding-top: 30px;
-    padding-bottom: 20px;
-}
+
 .headerInList .content-block {
    padding: 0;
+}
+#block-views-fourblock-blocco-sedi .view-display-id-block {
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.slick-prev,
+.slick-prev:hover{
+    background-image: url(/sites/all/themes/progressive/progressive_sub/img/back.png);
+    background-size: 30px 30px;
+    height: 30px;
+    width: 30px;
+}
+
+.slick-next,
+.slick-next:hover{
+    background-image: url(/sites/all/themes/progressive/progressive_sub/img/next.png)!important;
+    background-size: 30px 30px;
+    height: 30px;
+    width: 30px;
+}
+
+.fourBlockTitle {
+    margin-bottom: 20px;
+    color: black;
+    font-size: 13px;
+    text-align: center;
+}
+
+#sidebar #block-block-24 .col-md-4 {
+    width: 100%;
+}
+#sidebar #block-block-24 img {
+    display: none;
+}
+#sidebar #block-block-24 .iconaBloccoSedi img {
+    display: inherit;
+}
+#sidebar #block-block-24 .description {
+    font-size: 16px;
+}
+#sidebar #block-block-24 .caption {
+    margin-bottom: 10px;
+}
+#sidebar #block-block-24 .col-md-4 {
+    margin-bottom: 20px;
+}
+.container .container.padding50 {
+    padding: 50px;
+    background-color: white;
+}
+.bloccoDress {
+    height: 230px;
+}
+.padding50 .title-box h1.title {
+    font-size: 20px;
+    text-align: left;
+}
+.padding50 .title-box {
+    margin-bottom: 0;
+}
+.padding50 .title-box .title{
+    margin-bottom: 22px;
+}
+.padding50 h5 {
+    font-weight: bold;
+}
+.contenitoreTabellaOrari {
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+}
+.contenitoreBianco.rigaInterna {
+    border-top: 5px solid #847552;
+    border-bottom: 5px solid #847552;
+
+}
+.contenitoreBianco {
+    background-color: white;
+    padding: 50px;
+}
+.centra {
+    text-align: center;
+}
+#block-block-24 .contenitoreBianco{
+    padding: 0;
 }
