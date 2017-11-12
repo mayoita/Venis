@@ -73,6 +73,13 @@ p {
 .image_overlay .description{
     background-color: #847552;
 }
+
+
+#block-block-19 a,
+#block-block-18 a,
+.read_more,
+#views-bootstrap-grid-1 .coloreOro a,
+.node-contenitorepagina h1,
 .coloreOro,
 #sidebar #block-block-24 .description,
 .panel-group .panel .panel-heading > .panel-title > a,
@@ -84,6 +91,8 @@ h5,
 .BloccoBodyDue .title-box .title,
 h6,
 h4,
+h4 a,
+h4 a:visited,
 h5 a,
 h5 a:visited,
 .body-margin-bottom a,
@@ -103,12 +112,17 @@ h5 a:visited,
     border-bottom: 5px solid #847552;
 }
 .container.rigaInterna {
+    height: 1115px;
+}
+.container.rigaInterna,
+#block-views-listaeventi-block-11,
+#block-views-listaeventi-block-9,
+#block-views-listaeventi-block-10 {
     border-top: 5px solid #847552;
     border-bottom: 5px solid #847552;
     padding: 50px;
     background-color: white;
     margin-top: 30px;
-    height: 1115px;
 }
 #sidebar .tags a {
     color: white;
@@ -121,6 +135,9 @@ h5 a:visited,
 #block-views-fourblock-block .title-h1{
  margin-bottom: 0;
 }
+#block-views-listaeventi-block-6,
+#block-views-listaeventi-block-7,
+#block-views-listaeventi-block-8,
 #block-views-fourblock-block-2,
 #block-views-fourblock-block-1,
 #block-views-fourblock-block,
@@ -139,7 +156,7 @@ h5 a:visited,
     margin-bottom: 0;
 }
 .node-type-contenitorepagina #content{
-    margin-top: 30px;
+    margin: 30px 0;
     background-color: white;
 }
 .page-node-226 #content,
@@ -153,7 +170,6 @@ h5 a:visited,
 #block-views-listaeventi-block,
 #block-views-listaeventi-block-1 {
 
-    padding-top: 50px;
     padding-bottom: 50px;
 }
 .node-type-eventi .field-name-field-immagini {
@@ -336,7 +352,7 @@ h5 a:visited,
 }
 .view-EventsTop .content-block {
     padding: 0;
-    margin-bottom: -33px;
+
 }
 .content-block > p,
 .demo+p{
@@ -354,11 +370,11 @@ h5 a:visited,
     margin: 0 auto;
     display: inline;
     color: white;
-    bottom: 7px;
+    bottom: 1px;
 }
 .content-block .video-box,
 .caption img{
-    margin-bottom: 0;
+    margin-bottom: -33px;
 }
 .content-block .caption {
     margin-bottom: -6px;
@@ -412,6 +428,9 @@ h5 a:visited,
 }
 
 /* LISTA EVENTI */
+#block-block-19 .title-box,
+#block-views-slotcalendar-block-1 .title-box,
+#block-views-slotcalendar-block .title-box,
 #block-block-25 .title-box,
 #block-block-26 .title-box,
 #block-views-listaeventi-block-5 .title-box,
@@ -519,6 +538,7 @@ h5 a:visited,
     margin: 0 70px;
 }
 .altezzaBloccoSedi .title-box,
+#block-views-listaeventi-block-12 .title-box,
 #block-block-18 .title-box,
 #block-block-20 .title-box,
 #block-block-21 .title-box,
@@ -526,6 +546,8 @@ h5 a:visited,
     display: none;
 
 }
+#block-block-19,
+#block-block-18,
 .altezzaBloccoSedi {
     margin-top: 30px;
 }
@@ -537,12 +559,14 @@ h5 a:visited,
 .altezzaBloccoSedi h5,
 .title-h5,
 #sidebar h5,
-#block-views-orarisedi-block:before{
+#block-views-orarisedi-block:before,
+#block-views-orarisedi-block:before-1{
     margin-bottom: 9px;
 }
 h6,
 .altezzaBloccoSedi p,
-#block-block-18 p{
+#block-block-18 p,
+#block-block-19 p{
     margin:0;
 }
 p.iconaBloccoSedi {
@@ -558,7 +582,8 @@ p.iconaBloccoSedi {
 }
 
 .BloccoBodyDue .title-box .title,
-#block-views-orarisedi-block .title-box .title{
+#block-views-orarisedi-block .title-box .title,
+#block-views-orarisedi-block-1 .title-box .title{
     font-size: 20px;
     font-weight: bold;
 }
@@ -655,6 +680,9 @@ p.iconaBloccoSedi {
 .headerInList .content-block {
    padding: 0;
 }
+.headerInList .video-box {
+    margin-bottom: 0;
+}
 #block-views-fourblock-blocco-sedi .view-display-id-block {
     background-color: white;
     padding-bottom: 20px;
@@ -740,4 +768,109 @@ p.iconaBloccoSedi {
 }
 #block-block-24 .contenitoreBianco{
     padding: 0;
+}
+.view-listaeventi .row {
+    margin-bottom: 30px;
+}
+
+/* PAGI§NA GIOCHI */
+.page-node-244 #content,
+.page-node-251 #content,
+.page-node-252 #content {
+    padding: 0;
+    background-color: transparent;
+    margin-top: 0;
+}
+.contenitoreTreGiochi.container {
+    padding:30px 15px 0 15px;
+    background-color: white;
+    border-bottom: 5px solid #847552;
+}
+.contenitoreTreGiochi .caption+div {
+    margin: 50px 0;
+}
+#block-views-fourblock-block-1 h1,
+#block-views-fourblock-block-2 h1,
+#block-views-listaeventi-block-6 h1,
+#block-views-listaeventi-block-7 h1,
+#block-views-listaeventi-block-8 h1,
+#block-views-listaeventi-block-11 h1,
+#block-views-listaeventi-block-9 h1,
+#block-views-listaeventi-block-10 h1 {
+    padding-top: 0;
+}
+#block-views-listaeventi-block-6 .view-footer,
+#block-views-listaeventi-block-7 .view-footer,
+#block-views-listaeventi-block-8 .view-footer,
+#block-views-listaeventi-block-11 .view-footer,
+#block-views-listaeventi-block-9 .view-footer,
+#block-views-listaeventi-block-10 .view-footer{
+    margin-bottom: 0;
+}
+.ColonnaSlotCalendar h6 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.ColonnaSlotCalendar .coloreOro {
+    margin-top: 20px;
+}
+
+.ColonnaSlotCalendar {
+    margin-bottom: 50px;
+}
+#views-bootstrap-grid-1 .views-field-field-contenutoheader .content-block{
+    padding: 0;
+}
+#views-bootstrap-grid-1 .demo {
+    display: none;
+}
+#views-bootstrap-grid-1 .coloreOro {
+    margin-top: 45px;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+#views-bootstrap-grid-1 .row > div {
+    margin-bottom: 20px;
+}
+.bordoOro {
+    border: 1px solid #847552;
+    padding: 10px 20px;
+}
+.view-display-id-block_1 .views-field-nid {
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.view-display-id-block_1 #views-bootstrap-grid-1 .views-field-body {
+    margin-top: 8px;
+    height: 90px;
+}
+#bottom {
+    padding:0 0 30px 0;
+}
+.view-listaeventi .field-content {
+    float: left;
+}
+.view-listaeventi .col-xs-7  {
+    clear: left;
+}
+.read_more {
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.node-contenitorepagina {
+    padding-top: 50px;
+}
+.page-node-282 .node-contenitorepagina,
+.page-node-283 .node-contenitorepagina,
+.page-node-284 .node-contenitorepagina,
+.page-node-226 .node-contenitorepagina,
+.page-node-227 .node-contenitorepagina,
+.page-node-228 .node-contenitorepagina
+{
+    padding-top: 0;
 }
