@@ -12,7 +12,7 @@ h1,
 #block-views-orari-di-apertura-block .title-box h1.title{
     text-align: left;
 }
-h3, h5 {
+h3, h5, h2 {
     letter-spacing: 1px;
 }
 h4 {
@@ -34,9 +34,7 @@ p {
 .title-box {
     border-bottom: 0;
 }
-.title-box:before {
-    display: none;
-}
+
 
 .image_overlay {
     margin-bottom: 0;
@@ -66,15 +64,26 @@ p {
 .fixed-header.background-opacity .header-wrapper {
     background: #847552;
 }
+input.webform-submit.button-primary.btn.form-submit,
+.a2a_svg,
+.table > thead > tr.testa > th,
 .fixed-header .header-wrapper,
 .TitoloHeader,
 #sidebar .view .item-list ul li:hover,
 .sidebar .tags a,
 .image_overlay .description{
-    background-color: #847552;
+    background-color: #847552!important;
+}
+
+input.webform-submit.button-primary.btn.form-submit {
+    line-height: 10px;
+    margin-top: 20px;
 }
 
 
+.node-type-istituzionale #content a,
+.bordoBottom a,
+.webform-component a,
 #block-block-19 a,
 #block-block-18 a,
 .read_more,
@@ -114,6 +123,9 @@ h5 a:visited,
 .container.rigaInterna {
     height: 1115px;
 }
+.page-node-291 #content,
+.page-node-292 #content,
+.page-node-293 #content,
 .container.rigaInterna,
 #block-views-listaeventi-block-11,
 #block-views-listaeventi-block-9,
@@ -123,6 +135,11 @@ h5 a:visited,
     padding: 50px;
     background-color: white;
     margin-top: 30px;
+}
+.page-node-291 #content,
+.page-node-292 #content,
+.page-node-293 #content {
+    margin-bottom: 30px;
 }
 #sidebar .tags a {
     color: white;
@@ -428,6 +445,8 @@ h5 a:visited,
 }
 
 /* LISTA EVENTI */
+#block-views-gallery-block-1 .title-box,
+#block-views-gallery-block .title-box,
 #block-block-19 .title-box,
 #block-views-slotcalendar-block-1 .title-box,
 #block-views-slotcalendar-block .title-box,
@@ -500,7 +519,9 @@ h5 a:visited,
 .labelWW {
     margin-bottom: -5px;
 }
-
+.BloccoBody {
+    height: 320px;
+}
 /* SEDI */
 .BloccoBody {
     padding: 50px;
@@ -581,6 +602,12 @@ p.iconaBloccoSedi {
     height: 30px;
 }
 
+#block-block-20 h5,
+#block-block-21 h5,
+#block-block-23--2 .title-box .title,
+#block-block-23 .title-box .title,
+#block-block-22--2 .title-box .title,
+#block-block-22 .title-box .title,
 .BloccoBodyDue .title-box .title,
 #block-views-orarisedi-block .title-box .title,
 #block-views-orarisedi-block-1 .title-box .title{
@@ -873,4 +900,270 @@ p.iconaBloccoSedi {
 .page-node-228 .node-contenitorepagina
 {
     padding-top: 0;
+}
+.contenitoreTabella .table {
+    text-align: left;
+}
+.contenitoreTabella .table th.cellaTrasparente {
+    background-color: white;
+}
+.table > thead > tr.testa > th, td.danger, .table > tbody > tr > td.intestazioneRiga {
+    color: white;
+}
+.contenitoreTabella .table td,
+.contenitoreTabella .table th {
+    padding: 8px!important;
+}
+.contenitoreTabella .primaRiga td {
+    background-color: #c1baa8;
+}
+.contenitoreTabella td,
+.testa th {
+    border: 1px solid #ffffff;
+}
+.contenitoreTabella th {
+    font-size: 20px!important;
+}
+.contenitoreTabella td {
+    font-size: 18px;
+}
+.readRisto {
+    position: absolute;
+    bottom: 55px;
+    width: 40%;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.altezzaRisto {
+    height: 715px;
+}
+
+.page-node-306 #content,
+.page-node-308 #content,
+.page-node-303 #content,
+.page-node-304 #content,
+.page-node-305 #content,
+.page-node-301 #content,
+.page-node-302 #content,
+.page-node-297 #content,
+.page-node-294 #content ,
+.page-node-295 #content ,
+.page-node-296 #content {
+    background-color: transparent;
+
+}
+.page-node-302 #content .content,
+.page-node-297 #content .content,
+.page-node-305 #content .content,
+.page-node-301 #content .content,
+.page-node-303 #content .content,
+.page-node-304 #content .content,
+.page-node-294 #content .content,
+.page-node-295 #content .content,
+.page-node-296 #content .content {
+    padding-top: 0;
+}
+.page-node-294 #block-views-orarisedi-block-1,
+.page-node-295 #block-views-orarisedi-block-1,
+.page-node-296 #block-views-orarisedi-block-1,
+.page-node-294 #block-views-orarisedi-block,
+.page-node-295 #block-views-orarisedi-block,
+.page-node-296 #block-views-orarisedi-block {
+    padding: 50px;
+    background-color: white;
+    margin: 30px 0;
+}
+.page-node-294 #block-views-listaeventi-block-3,
+.page-node-295 #block-views-listaeventi-block-3,
+.page-node-296 #block-views-listaeventi-block-3 {
+    background-color: white;
+    padding: 30px 0;
+    border-top: 5px solid #847552;
+    border-bottom: 5px solid #847552;
+}
+.page-node-303 .contenitoreBianco.ristorante,
+.page-node-301 .contenitoreBianco.ristorante,
+.page-node-304 .contenitoreBianco.ristorante,
+.page-node-305 .contenitoreBianco.ristorante,
+.page-node-302 .contenitoreBianco.ristorante,
+.page-node-297 .contenitoreBianco.ristorante {
+    border-bottom: 5px solid #847552;
+}
+.rigaInterna {
+    border-top: 5px solid #847552;
+    border-bottom: 5px solid #847552;
+    background-color: white;
+    padding: 50px 0 0 0;
+}
+.page-node-303 .rigaInterna .contenitoreBianco,
+.page-node-301 .rigaInterna .contenitoreBianco,
+.page-node-304 .rigaInterna .contenitoreBianco,
+.page-node-305 .rigaInterna .contenitoreBianco,
+.page-node-302 .rigaInterna .contenitoreBianco,
+.page-node-297 .rigaInterna .contenitoreBianco {
+    padding: 0;
+}
+.page-node-303 #block-block-18,
+.page-node-301 #block-block-19,
+.page-node-304 #block-block-18,
+.page-node-305 #block-block-18,
+.page-node-302 #block-block-19,
+.page-node-297 #block-block-19,
+.ristorante #block-block-18 {
+    margin-top: 0;
+    padding-bottom: 50px;
+}
+.links.inline {
+    padding: 0;
+}
+.bordoBottom {
+    border-bottom: 5px solid #847552;
+}
+.bordoTop {
+    border-top: 5px solid #847552;
+}
+#block-block-27 .block-content {
+    background-color: white;
+    padding: 50px;
+}
+.mc-field-group.input-group {
+    min-height: 20px!important;
+}
+
+.mc-field-group {
+    padding-bottom: 0px!important;
+}
+.mc-field-group.input-group p, .mc-field-group.input-group label {
+    display: none!important;
+}
+.mc-field-group.input-group ul {
+    float: left;
+}
+#mc-embedded-subscribe {
+    margin-top: 20px!important;
+    background-color: #847552!important;
+}
+.altezza600 {
+    height: 600px;
+}
+.altezzaDress {
+    height: 260px;
+    margin-bottom: 50px;
+}
+.altezzaOrari{
+    margin: 30px 0;
+}
+.node-type-istituzionale #content{
+    margin: 30px 0;
+    padding: 50px;
+    background-color: white;
+    border-bottom: 5px solid #847552;
+}
+
+/* FOOTER */
+footer.nd-region.footer-top,
+footer.nd-region.footer-bottom,
+footer.nd-region.footer-top .container,
+#block-progressive-cms-footer-copyright .row,
+#progressive_cms-footer_copyright, #top-box, .black_box {
+    background-color: #252525!important;
+}
+.footer-bottom .container {
+    border-top: 1px;
+    border-style: solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#block-block-28 .title-box {
+    display: none;
+}
+#block-block-28 p {
+    text-align: center;
+}
+#block-block-28 a {
+    color: white;
+}
+#Footer-Top {
+    text-align: center;
+}
+#Footer-Top .title-box {
+    margin-bottom: 15px;
+}
+
+#Footer-Top .title-h1 {
+    display: none;
+}
+.firstLineFooter {
+    border-bottom: 1px solid #7F7F7F;
+}
+#Footer-Top a, #Footer-Top p {
+    line-height: 24px;
+}
+#Footer-Top p, #Footer-Bottom p {
+    text-align: center;
+}
+
+
+#Footer-Top p {
+    margin-bottom: 0;
+    color: white;
+    line-height: 17px;
+    font-size: 15px;
+}
+
+#Footer-Top a {
+    text-decoration: none;
+    color: white;
+}
+#Footer-Top h2.title {
+    line-height: 40px;
+}
+#Footer-Top h2 {
+    margin-bottom: 10px;
+}
+
+#Footer-Top h2 {
+    color: white!important;
+    font-size: 20px;
+    font-weight: bold!important;
+    padding-top: 0;
+}
+#Footer-Top .title-box:before {
+    width: 40px;
+    background-color: white!important;
+
+}
+
+.firstLineFooter .title-box:before {
+    left: 50%;
+    margin-left: -20px;
+}
+.nd-region.footer-top {
+    padding-top: 0;
+}
+.icone a {
+    background-size: 23px 23px;
+    background-repeat: no-repeat;
+    background-position: 8px 4px;
+}
+.icon.icon-60  {
+    width: 40px;
+}
+
+#Footer-Top svg {
+    top: -2px;
+}
+
+.iconeFooter a {
+    display: inline-block;
+    margin-right: 5px;
+}
+.iconeFooter {
+    margin-bottom: 10px;
+    color: white;
+}
+.turnPage {
+    background-size: 100% 100%;
 }

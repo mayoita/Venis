@@ -138,8 +138,8 @@
                 </svg>
             </a>
             </div>
-                <?php print '<a  href="' . $field_eventbrite[0]['value'] . '">' ?><?php print render($content['field_book']); ?><?php print '</a>'; ?>
-
+                <a href="<?php
+                print isset($field_eventbrite[LANGUAGE_NONE]) ? $field_eventbrite[LANGUAGE_NONE][0]['value'] : ""; ?>"><?php print render($content['field_book']); ?></a>
 
             <?php endif; ?>
         </div>

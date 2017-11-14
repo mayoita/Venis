@@ -19,6 +19,7 @@ stylesheets[all][] = css/slick-theme.css
 
 scripts[] = js/cvc.js
 scripts[] = js/slick.js
+scripts[] = js/turn.js
 
 features[] = name
 features[] = logo
