@@ -79,8 +79,8 @@ input.webform-submit.button-primary.btn.form-submit {
     line-height: 10px;
     margin-top: 20px;
 }
-
-
+.titolo_pubblicta,
+#sliding-popup a,
 .node-type-istituzionale #content a,
 .bordoBottom a,
 .webform-component a,
@@ -203,6 +203,10 @@ h5 a:visited,
 .header .primary .navbar .nav > li > a,
 .header .primary .navbar .nav > li > a:visited  {
     color: white;
+}
+.header .primary .navbar .nav > li:hover > a,
+.header .primary .sub a {
+    color: #847552!important;
 }
 /* SIDEBAR */
 #sidebar .title-box {
@@ -445,6 +449,7 @@ h5 a:visited,
 }
 
 /* LISTA EVENTI */
+#block-views-turnview-block .title-box,
 #block-views-gallery-block-1 .title-box,
 #block-views-gallery-block .title-box,
 #block-block-19 .title-box,
@@ -1166,4 +1171,110 @@ footer.nd-region.footer-top .container,
 }
 .turnPage {
     background-size: 100% 100%;
+}
+#sliding-popup {
+    opacity: 0.8;
+}
+.agree-button {
+    background: none!important;
+    border: none!important;
+    box-shadow: none!important;
+    color: white!important;
+    text-shadow: none!important;
+}
+.find-more-button {
+    display: none!important;
+}
+.view-EventsTop .caption img {
+    width: 100%;
+    margin: 0;
+}
+.view-EventsTop .caption {
+    display: block;
+    margin-bottom: -33px;
+}
+#content .title-box:before {
+    display: none;
+}
+.alert_block {
+    display: inline-block;
+}
+.view-display-id-block_5 .percorsoNodo,
+.view-display-id-block_4 .percorsoNodo,
+.view-display-id-block_3 .percorsoNodo {
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+.view-display-id-block_5 .slick-prev,
+.view-display-id-block_4 .slick-prev,
+.view-display-id-block_3  .slick-prev {
+    left: -45px;
+}
+.view-display-id-block_5 .slick-next,
+.view-display-id-block_4 .slick-next,
+.view-display-id-block_3 .slick-next {
+    right: -45px;
+}
+.view-display-id-block_5 .slick-prev,.view-display-id-block_5 .slick-next,
+.view-display-id-block_4 .slick-prev,.view-display-id-block_4 .slick-next,
+.view-display-id-block_3 .slick-prev,.view-display-id-block_3 .slick-next {
+
+    top: 43%;
+}
+.circleEventDate span, .notify-badge span {
+    display: table-cell;
+    vertical-align: middle;
+    color: #847552;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+}
+.headerInList .circleEventDate {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+    display: table;
+    top: -43px;
+    z-index: 10;
+    margin-bottom: -30px;
+}
+.titolo_riquadro {
+    border: #fff;
+    border-style: solid;
+    color: #fff;
+    display: inline-block;
+    padding-bottom: 5px;
+    padding: 6px 65px;
+    font-weight: bold;
+    font-size: 21px;
+}
+.four_block_risto {
+    padding: 0 15px 40px 15px;
+}
+.blocco_pubblicita_menu {
+    height: 230px;
+}
+.titolo_pubblicta {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 15px;
+    padding-top: 5px;
+}
+.intro_pubblicta {
+    text-align: justify;
+    line-height: 15px;
+    padding-top: 5px;
+}
+.immagine_pubblicita {
+    border: 1px solid #847552;
+    padding: 2px;
+}
+.tb-megamenu-item.menu-title a {
+    margin-top: 5px;
+}
+#block-block-31 br{
+    display: none;
 }

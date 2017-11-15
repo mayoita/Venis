@@ -2,109 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b28740dd-463a-447b-9e97-2526eee5f5d9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/turn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/wedding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-field--field-immaginipdf.tpl.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/languages/it_TSDWxqs4Wsug57A2fRySVl3sOkmzGtYYMUgdvHlO6K8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/languages/zh-hans_0GmBiP98DJhRKFOLEx4kAEkd7gFGsOYL5PWo6r8n0kI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_116.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_118.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_122.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_124.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_126.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_145.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_146.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_147.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_148.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_149.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/upload_image_151.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_101.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_102.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_112.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_113.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_114.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_116.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_117.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_118.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_119.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_120.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_121.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_122.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_124.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_125.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_126.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_145.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_146.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_147.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_148.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_149.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_151.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_58.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_67.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_68.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_79.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/upload_image_99.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/progressive-cms-menu.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/languages/it_OKKFrTOizdYd2gOQRnaSUP5pVCWL603DJ47RD06ofWc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/languages/zh-hans_8_tkb3rX7g3P6tBqsDdU0WSBHgiHpyPpUxBeVwZrY-g.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/admin_language-7.x-1.0-beta4.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/eu_cookie_compliance-7.x-1.17.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/options_element-7.x-1.12.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-cache-e5e61edb/webform_localization-7.x-4.10.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/admin_language/CHANGELOG.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/admin_language/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/admin_language/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/admin_language/admin_language.api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/admin_language/admin_language.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/admin_language/admin_language.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/admin_language/admin_language.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/css/eu_cookie_compliance-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/css/eu_cookie_compliance.bare-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/css/eu_cookie_compliance.bare.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/css/eu_cookie_compliance.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/eu_cookie_compliance.admin.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/eu_cookie_compliance.api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/eu_cookie_compliance.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/eu_cookie_compliance.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/eu_cookie_compliance.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/eu_cookie_compliance.variable.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/images/gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/js/eu_cookie_compliance.admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/js/eu_cookie_compliance.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/theme/eu-cookie-compliance-popup-agreed.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/eu_cookie_compliance/theme/eu-cookie-compliance-popup-info.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/options_element.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/options_element.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/options_element.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/options_element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/options_element/options_element.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/components/grid.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/components/select.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/includes/webform_localization.component.sync.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/includes/webform_localization.i18n.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/includes/webform_localization.sync.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/tests/webform_localization.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/webform_localization.api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/webform_localization.info" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/webform_localization.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/default/files/tmp/update-extraction-e5e61edb/webform_localization/webform_localization.module" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default/files/covereventsmetting-2.jpg" afterPath="$PROJECT_DIR$/default/files/covereventsmetting-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/covereventsmetting-2.jpg" afterPath="$PROJECT_DIR$/default/files/styles/media_thumbnail/public/covereventsmetting-2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/js/main.js" afterPath="$PROJECT_DIR$/all/themes/progressive/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/node--eventi.tpl.php" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/node--eventi.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/template.php" afterPath="$PROJECT_DIR$/all/themes/progressive/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php" afterPath="$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/default/files/fontyourface/font.css" afterPath="$PROJECT_DIR$/default/files/fontyourface/font.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,21 +72,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="1167" column="31" lean-forward="false" selection-start-line="1167" selection-start-column="31" selection-end-line="1167" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="node--eventi.tpl.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/node--eventi.tpl.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="139" column="18" lean-forward="false" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
+            <state relative-caret-position="676">
+              <caret line="1278" column="18" lean-forward="false" selection-start-line="1278" selection-start-column="18" selection-end-line="1278" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -146,12 +92,100 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="progressive_sub.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progressive.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-839">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progressive-cms-menu.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/progressive-cms-menu.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="55" column="56" lean-forward="false" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="1589" column="7" lean-forward="false" selection-start-line="1589" selection-start-column="7" selection-end-line="1589" selection-end-column="7" />
+              <folding>
+                <marker date="1510754540939" expanded="true" signature="150:191" ph="..." />
+                <marker date="1510754540939" expanded="true" signature="43212:43572" ph="..." />
+                <marker date="1510754540939" expanded="true" signature="43662:44022" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views-view-grid--fourblock.tpl.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="91" lean-forward="false" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wedding.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/wedding.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="progressive_shortcodes.module" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/all/modules/progressive_cms/progressive_shortcodes/progressive_shortcodes.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16578">
+              <caret line="298" column="63" lean-forward="false" selection-start-line="298" selection-start-column="24" selection-end-line="298" selection-end-column="63" />
+              <folding>
+                <marker date="1509957212600" expanded="true" signature="31209:32046" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31243:31621" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31452:31608" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31655:32033" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="31864:32020" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="54071:55176" ph="..." />
+                <marker date="1509957212600" expanded="false" signature="54091:54129" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="54145:55165" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="54351:55152" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85294:85632" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85351:85632" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85429:85502" ph="..." />
+                <marker date="1509957212600" expanded="true" signature="85549:85632" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,27 +194,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>#block-views-orarisedi-block:before</find>
-      <find>phone</find>
-      <find>tagTele</find>
-      <find>cent</find>
-      <find>view</find>
-      <find>progressive_shortcodes_shortcode_sitemap_tip</find>
-      <find>sitemap</find>
-      <find>progressive_shortcodes_shortcode_title_tip</find>
-      <find>progressive_shortcodes_shortcode_hr_tip</find>
-      <find>9px</find>
-      <find>display: n</find>
-      <find>conteni</find>
-      <find>fourblock-block</find>
-      <find>#block-views-fourblock-block</find>
-      <find>contenito</find>
-      <find>title</find>
-      <find>title-box</find>
-      <find>display: non</find>
-      <find>227</find>
-      <find>contenitoreTabella</find>
-      <find>border-bott</find>
       <find>bloccobo</find>
       <find>margin-bo</find>
       <find>5px</find>
@@ -190,6 +203,27 @@
       <find>back</find>
       <find>background-co</find>
       <find>before</find>
+      <find>navbar-rig</find>
+      <find>.title-bo</find>
+      <find>ta</find>
+      <find>tagT</find>
+      <find>tagTe</find>
+      <find>tagTel</find>
+      <find>tagTele</find>
+      <find>tagTelef</find>
+      <find>p</find>
+      <find>phone-cal</find>
+      <find>phone-ca</find>
+      <find>phone-c</find>
+      <find>phone-</find>
+      <find>phone-h</find>
+      <find>phone-hea</find>
+      <find>phone-head</find>
+      <find>phone-heade</find>
+      <find>phone-header</find>
+      <find>icons</find>
+      <find>titolo_riquadro</find>
+      <find>progressive_shortcodes_shortcode_view_description</find>
     </findStrings>
     <replaceStrings>
       <replace>#block-views-fourblock-blocco-sedi</replace>
@@ -208,8 +242,10 @@
         <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/node--eventi.tpl.php" />
         <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info" />
         <option value="$PROJECT_DIR$/all/themes/progressive/template.php" />
-        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" />
         <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php" />
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/progressive-cms-menu.tpl.php" />
+        <option value="$PROJECT_DIR$/all/themes/progressive/js/main.js" />
+        <option value="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css" />
       </list>
     </option>
   </component>
@@ -226,9 +262,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="468" />
-    <option name="y" value="73" />
-    <option name="width" value="1312" />
+    <option name="x" value="40" />
+    <option name="y" value="42" />
+    <option name="width" value="1556" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectView">
@@ -316,6 +352,32 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="progressive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="progressive_sub" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -376,7 +438,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -462,8 +524,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,9 +535,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates" />
       <recent name="$PROJECT_DIR$/all/themes/progressive/js" />
       <recent name="$PROJECT_DIR$/all/themes/progressive/progressive_sub/js" />
-      <recent name="$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates" />
       <recent name="$PROJECT_DIR$/all/themes/progressive/progressive_sub/css" />
     </key>
   </component>
@@ -575,32 +637,33 @@
       <workItem from="1510302995845" duration="9422000" />
       <workItem from="1510572672311" duration="7779000" />
       <workItem from="1510652770049" duration="11016000" />
+      <workItem from="1510739447206" duration="13071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53656000" />
+    <option name="totallyTimeSpent" value="66727000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="73" width="1312" height="977" extended-state="0" />
+    <frame x="40" y="42" width="1556" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20629922" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17569353" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993015" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2596042" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -612,11 +675,50 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/all/modules/progressive_cms/progressive_shortcodes/progressive_shortcodes.module</url>
+          <line>1420</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17505">
+          <caret line="1167" column="31" lean-forward="false" selection-start-line="1167" selection-start-column="31" selection-end-line="1167" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/node--eventi.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="139" column="18" lean-forward="false" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="91" lean-forward="false" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15000">
@@ -675,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -847,13 +946,81 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--block.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/node--eventi.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="139" column="18" lean-forward="false" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/turn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/js/wedding.js" />
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="593" column="0" lean-forward="true" selection-start-line="593" selection-start-column="0" selection-end-line="593" selection-end-column="0" />
+          <folding>
+            <marker date="1510672671176" expanded="true" signature="19353:20417" ph="..." />
+            <marker date="1510672671176" expanded="false" signature="19371:19394" ph="..." />
+            <marker date="1510672671176" expanded="true" signature="19410:20408" ph="..." />
+            <marker date="1510672671176" expanded="true" signature="19618:20397" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock--blocco-sedi.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-field--field-immaginipdf.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/wedding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/all/modules/progressive_cms/progressive_shortcodes/progressive_shortcodes.module">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4470">
+        <state relative-caret-position="-16578">
           <caret line="298" column="63" lean-forward="false" selection-start-line="298" selection-start-column="24" selection-end-line="298" selection-end-column="63" />
           <folding>
             <marker date="1509957212600" expanded="true" signature="31209:32046" ph="..." />
@@ -873,87 +1040,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--block.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/node--eventi.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="139" column="18" lean-forward="false" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/turn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/js/wedding.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/js/wedding.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/progressive_sub.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="116">
           <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/template.php">
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="593" column="0" lean-forward="true" selection-start-line="593" selection-start-column="0" selection-end-line="593" selection-end-column="0" />
-          <folding>
-            <marker date="1510672671176" expanded="true" signature="19353:20417" ph="..." />
-            <marker date="1510672671176" expanded="false" signature="19371:19394" ph="..." />
-            <marker date="1510672671176" expanded="true" signature="19410:20408" ph="..." />
-            <marker date="1510672671176" expanded="true" signature="19618:20397" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-field--field-immaginipdf.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="1167" column="31" lean-forward="false" selection-start-line="1167" selection-start-column="31" selection-end-line="1167" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock--blocco-sedi.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="-839">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -966,10 +1064,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/template.php">
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/progressive-cms-menu.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="91" lean-forward="false" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
+        <state relative-caret-position="8">
+          <caret line="55" column="56" lean-forward="false" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="1589" column="7" lean-forward="false" selection-start-line="1589" selection-start-column="7" selection-end-line="1589" selection-end-column="7" />
+          <folding>
+            <marker date="1510754540939" expanded="true" signature="150:191" ph="..." />
+            <marker date="1510754540939" expanded="true" signature="43212:43572" ph="..." />
+            <marker date="1510754540939" expanded="true" signature="43662:44022" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/templates/views-view-grid--fourblock.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all/themes/progressive/progressive_sub/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="1278" column="18" lean-forward="false" selection-start-line="1278" selection-start-column="18" selection-end-line="1278" selection-end-column="18" />
           <folding />
         </state>
       </provider>
