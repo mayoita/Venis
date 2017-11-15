@@ -1591,7 +1591,7 @@ jQuery(document).ready(function(){
   }
   
   //Header Phone & Search
-  $('.phone-header > a').click(function(event){
+  $('.phone-call').click(function(event){
 	event.preventDefault();
     $('.btn-group').removeClass('open');
     $('.phone-active').fadeIn().addClass('open');
